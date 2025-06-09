@@ -1,0 +1,9 @@
+flask
+flask-cors
+python-dotenv
+chromadb
+langchain-community
+PyPDF2
+langchain
+langchain-google-genai
+google-generativeai
